@@ -1,15 +1,15 @@
 # Table of contents
 
-* [欢迎来到梗之计划中文Wiki!](README.md)
-* [关于模组的名称&内容](about-mod.md)
-* [模 块 化](modular.md)
+* [👋 欢迎来到梗之计划中文Wiki!](README.md)
+* [ℹ 关于模组的名称&内容](about-sth.md)
+* [🧩 模 块 化](modular.md)
 
 ## 物品 <a href="#item" id="item"></a>
 
-* [Vision and Values](item/vision-and-values.md)
-* [Meet the Team!](item/meet-the-team.md)
+* [item-placeholder](item/item-placeholder.md)
+* [item-placeholder2](item/item-placeholder2.md)
 
-## The Formal Stuff
+## 唱片 <a href="#disc" id="disc"></a>
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [desc-placeholder](disc/desc-placeholder.md)
+* [desc-placeholder2](disc/desc-placeholder2.md)
