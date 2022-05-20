@@ -5,12 +5,6 @@
 * [🧩 模 块 化](modular.md)
 * [🌐 本地化](ben-di-hua.md)
 
-## 物品 <a href="#item" id="item"></a>
-
-* [item-placeholder](item/item-placeholder.md)
-* [item-placeholder2](item/item-placeholder2.md)
-
 ## 唱片 <a href="#disc" id="disc"></a>
 
-* [desc-placeholder](disc/desc-placeholder.md)
-* [desc-placeholder2](disc/desc-placeholder2.md)
+* [唱片列表](disc/chang-pian-lie-biao.md)
